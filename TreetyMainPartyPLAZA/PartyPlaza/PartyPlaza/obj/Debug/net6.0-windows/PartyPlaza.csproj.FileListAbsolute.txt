@@ -1,0 +1,64 @@
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.exe
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.deps.json
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.runtimeconfig.json
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.pdb
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.AssemblyReference.cache
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.Properties.Resources.resources
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.GenerateResource.cache
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.AssemblyInfoInputs.cache
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.AssemblyInfo.cs
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.CoreCompileInputs.cache
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\refint\PartyPlaza.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.pdb
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.genruntimeconfig.cache
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\ref\PartyPlaza.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmMain.resources
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmAddCustomer.resources
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmCustomer.resources
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmEditCustomer.resources
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.CopyComplete
+C:\Users\Dean Gallagher\source\repos\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmBooking.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.exe
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.deps.json
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.runtimeconfig.json
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\PartyPlaza.pdb
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.AssemblyReference.cache
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmAddCustomer.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmBooking.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmCustomer.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmEditCustomer.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmMain.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.Properties.Resources.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.GenerateResource.cache
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.AssemblyInfoInputs.cache
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.AssemblyInfo.cs
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.CoreCompileInputs.cache
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.csproj.CopyComplete
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\refint\PartyPlaza.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.pdb
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.genruntimeconfig.cache
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\ref\PartyPlaza.dll
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmSupplier.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmAddSupplier.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmEditSupplier.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmOrder.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmAddOrder.resources
+C:\Users\44778\Desktop\MainPartyPLAZA\PartyPlaza\PartyPlaza\obj\Debug\net6.0-windows\PartyPlaza.FrmEditOrder.resources
